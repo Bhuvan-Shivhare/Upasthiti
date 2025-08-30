@@ -1,6 +1,6 @@
 # 📌 Upasthiti  
 A smart **event attendance app** built with **Flutter** and **Firebase**, designed for seamless and secure event management.  
-
+ ##DEMO VIDEO https://drive.google.com/file/d/1o7x7WZQSNP7LY7oxpa3ozDBvkBP9JTy3/view?usp=sharing
 ## ✨ Features  
 - 🔐 Fingerprint/Face Lock for secure access  
 - 📍 Real-time check-in & check-out with live location tracking  
