@@ -61,4 +61,18 @@ A smart **event attendance app** built with **Flutter** and **Firebase**, design
 
 Clone the repository  
 ```bash
-git clone https://github.com/dubey2709/Upasthiti.git
+git clone https://github.com/Bhuvan-Shivhare/Upasthiti.git
+
+Navigate to the project directory
+
+cd Upasthiti
+
+
+Install dependencies
+
+flutter pub get
+
+
+Run the application (emulator/physical device)
+
+flutter run
